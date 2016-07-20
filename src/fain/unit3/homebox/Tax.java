@@ -1,4 +1,4 @@
-package com.homebox;
+package fain.unit3.homebox;
 
 public class Tax {
     private double grossIncome;

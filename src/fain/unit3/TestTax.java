@@ -1,4 +1,6 @@
-import com.homebox.Tax;
+package fain.unit3;
+
+import fain.unit3.homebox.Tax;
 
 public class TestTax {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package fain.unit3;
+
 public class WhileLoopDemo {
     public static void main(String[] args) {
         String[] friends = new String[20];
