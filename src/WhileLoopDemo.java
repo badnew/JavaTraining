@@ -12,7 +12,7 @@ public class WhileLoopDemo {
         while (i < totalElements) {
             if (friends[i] == null) {
                 i++;
-                break;
+                continue;
             }
             System.out.println("I love " + friends[i]);
             i++;
