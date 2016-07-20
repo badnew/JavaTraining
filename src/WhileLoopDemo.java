@@ -10,9 +10,9 @@ public class WhileLoopDemo {
         int totalElements = friends.length;
         int i = 0;
         while (i < totalElements) {
-            if (friends[i] == null) {
+            if (friends[i] == "Matilda") {
                 i++;
-                continue;
+                break;
             }
             System.out.println("I love " + friends[i]);
             i++;
