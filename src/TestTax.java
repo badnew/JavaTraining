@@ -1,3 +1,5 @@
+import com.homebox.Tax;
+
 public class TestTax {
     public static void main(String[] args) {
         Tax t = new Tax();

@@ -1,3 +1,5 @@
+package com.homebox;
+
 public class Tax {
     double grossIncome;
     int dependents;
