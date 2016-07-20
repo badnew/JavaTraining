@@ -1,4 +1,4 @@
-package fain.unit3;
+package fain.unit3.walkthrough;
 
 public class WhileLoopDemo {
     public static void main(String[] args) {

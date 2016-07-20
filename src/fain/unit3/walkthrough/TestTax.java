@@ -1,6 +1,6 @@
-package fain.unit3;
+package fain.unit3.walkthrough;
 
-import fain.unit3.homebox.Tax;
+import fain.unit3.walkthrough.homebox.Tax;
 
 public class TestTax {
     public static void main(String[] args) {
